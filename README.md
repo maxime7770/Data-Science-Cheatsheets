@@ -1,8 +1,8 @@
 # Data-Science-Cheatsheets
 
 
-[Data Science Cheatsheets from Datacamp courses](https://github.com/maxime7770/Data-Science-Cheatsheets/tree/main/Datacamp%20Cheat%20Sheets)
-Contains many cheatsheets on various topics in data science with Python and SQL.
+[Data Science Cheatsheets from Datacamp courses](https://github.com/maxime7770/Data-Science-Cheatsheets/tree/main/Datacamp%20Cheat%20Sheets): 
+contains many cheatsheets on various topics in data science with Python and SQL.
 
 From [Afshine Amidi](https://www.mit.edu/~amidi/) and [Shervine Amidi](https://stanford.edu/~shervine/):
 - [Probability Cheatsheet](https://github.com/maxime7770/Data-Science-Cheatsheets/blob/main/cheatsheet-probability.pdf)
